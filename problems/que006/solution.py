@@ -270,6 +270,8 @@
 
 # it's turns out i was stupid.
 # the easies solution was min max formula.
+# area of intersection of two rectangles, otherwise it will be a mess.
+
 def abs(x):
     if x < 0:
         return -x
