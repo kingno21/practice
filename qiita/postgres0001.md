@@ -5,6 +5,10 @@
 pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
 ```
 
+* GUI tools
+[Postgres.app](https://postgresapp.com/)
+
+
 * ログインするには
     * はじめに, all usersを見る
     
