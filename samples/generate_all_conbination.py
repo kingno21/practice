@@ -5,7 +5,7 @@ def pop_return_arr(array, val):
 	tmp.pop(array.index(val))
 	return tmp
 
-def gen(array):
+def generate(array):
 	if len(array) == 1:
 		return array[0]
 
